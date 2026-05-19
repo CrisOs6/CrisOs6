@@ -1,10 +1,5 @@
 # 👋 ¡Hola! Soy Cris Osorio
 
-[![GitHub followers](https://img.shields.io/github/followers/CrisOs6?label=Follow&style=social)](https://github.com/CrisOs6)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristaosorio/)
-
-## 🌸 Sobre mí
---- 
 Desarrolladora **Android** y **Java** apasionada por crear aplicaciones funcionales con interfaces limpias y atractivas. Me gusta explorar el desarrollo web y los videojuegos como hobby.
 
 -  Actualmente trabajando en: **Alterra** (app de chatbots con IA)
@@ -13,7 +8,7 @@ Desarrolladora **Android** y **Java** apasionada por crear aplicaciones funciona
 -  Contacto: [crisosorioo6@gmail.com](mailto:crisosorioo6@gmail.com)
 
 ## 🌺 Proyectos destacados
----
+
 | Proyecto                                                                       | Tecnologías              | Descripción                                 |
 | ------------------------------------------------------------------------------ | ------------------------ | ------------------------------------------- |
 | [**Macaron Calc**](https://github.com/CrisOs6/Macaron_Calc)                    | Android, Java            | Calculadora con diseño pastel y responsive  |
@@ -21,7 +16,7 @@ Desarrolladora **Android** y **Java** apasionada por crear aplicaciones funciona
 | [**Encriptador de imagenes**](https://github.com/CrisOs6/EsteganografiaBasica) | Java                     | Esteganografía: oculta mensajes en imágenes |
 
 ## 🌸 Tecnologías que uso
----
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,17 +27,15 @@ Desarrolladora **Android** y **Java** apasionada por crear aplicaciones funciona
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌺 GitHub stats
----
-![CrisOs6's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisOs6&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisOs6&layout=compact&theme=tokyonight)
+
+![CrisOs6's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisOs6&show_icons=true&theme=default&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisOs6&layout=compact&theme=default)
 
 ## 🌸 Mi enfoque
----
+
 -  Código limpio y documentado.
 -  Interfaces atractivas.
 -  Aprender haciendo proyectos reales.
 -  Proyectos personales como reflejo de mi estilo.
-
----
 
 ⭐ *Si te gusta alguno de mis proyectos, no dudes en darle una estrella o contactarme.*
